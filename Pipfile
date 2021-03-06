@@ -14,6 +14,8 @@ uritemplate = "*"
 drf-yasg = "*"
 python-dotenv = "*"
 python-env = "*"
+django-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
