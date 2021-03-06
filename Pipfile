@@ -9,6 +9,11 @@ djangorestframework = "*"
 dj-rest-auth = "*"
 pipenv = "*"
 django-allauth = "*"
+pyyaml = "*"
+uritemplate = "*"
+drf-yasg = "*"
+python-dotenv = "*"
+python-env = "*"
 
 [dev-packages]
 
